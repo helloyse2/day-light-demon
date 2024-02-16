@@ -1,2 +1,2 @@
-# day-light-demon
+# day-light
 🎈🌞
